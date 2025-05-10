@@ -73,13 +73,3 @@ docker run -p 9000:9000 car-mod
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-[Specify your license, e.g., MIT License]
-
-## 📞 Contact
-
-- Project Maintainer: [Your Name]
-- Email: [Your Email]
-- Project Link: [Repository URL]
